@@ -3,7 +3,7 @@ import pandas as pd
 
 
 # Google Maps API Key (Replace with your own)
-API_KEY = "AIzaSyAFcW2PI7m1gWUIU8h8cGckGFKIL1QsLGw"
+API_KEY = "Google Maps API Key"
 
 # Initialize Google Maps Client
 gmaps = googlemaps.Client(key=API_KEY)
