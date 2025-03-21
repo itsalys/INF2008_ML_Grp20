@@ -12,8 +12,8 @@ pip install geopandas mgwr pandas numpy matplotlib scikit-learn
 
 ## Dataset
 The script reads data from CSV files:
-- **Train dataset:** `../../Data/cleaned_train.csv`
-- **Test dataset:** `../../Data/cleaned_test.csv`
+- **Train dataset:** `../../DataCollection/Data/cleaned_train.csv`
+- **Test dataset:** `../../DataCollection/Data/cleaned_test.csv`
 
 ## Notebook Structure
 ### Cell 1: Installing dependencies 
